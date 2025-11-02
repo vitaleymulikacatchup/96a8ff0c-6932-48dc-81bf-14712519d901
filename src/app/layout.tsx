@@ -78,7 +78,7 @@ const nunito = Nunito({
 
 export const metadata: Metadata = {
   title: 'Hanbok - Restaurante Coreano Tradicional en Madrid',
-  description: 'Rainer like Pipi',
+  description: 'Descubra la auténtica cocina coreana en Madrid. Restaurante tradicional que respeta los valores coreanos. Reservas disponibles.',
   keywords: "restaurante coreano Madrid, comida coreana tradicional, cocina auténtica, reservas restaurante, Hanbok Madrid",
   metadataBase: new URL("https://hanbok-madrid.com"),
   alternates: {
@@ -86,7 +86,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Hanbok - Restaurante Coreano Tradicional en Madrid',
-    description: 'Rainer like Pipi',
+    description: 'Descubra la auténtica cocina coreana en Madrid. Restaurante tradicional que respeta los valores coreanos. Reservas disponibles.',
     siteName: "Hanbok Restaurant",
     images: [
       {
@@ -99,7 +99,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'Hanbok - Restaurante Coreano Tradicional en Madrid',
-    description: 'Rainer like Pipi',
+    description: 'Descubra la auténtica cocina coreana en Madrid. Restaurante tradicional que respeta los valores coreanos. Reservas disponibles.',
     images: ["https://images.pexels.com/photos/8351667/pexels-photo-8351667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"]
   },
   robots: {
