@@ -30,7 +30,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Tradición Coreana en Madrid"
+          title="Tradición Japonesa en Madrid"
           description="Descubra la auténtica cocina coreana en el corazón de Madrid. Respetamos los valores tradicionales y ofrecemos una experiencia gastronómica única que honra nuestro patrimonio cultural."
           tag="Hanbok Restaurant"
           tagIcon={Sparkles}
